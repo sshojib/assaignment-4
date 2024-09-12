@@ -10,4 +10,3 @@ function sendNotification(email) {
 
     return notificationMassege
 }
-console.log( sendNotification("zihad@gmail.com"))
